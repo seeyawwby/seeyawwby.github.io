@@ -32,17 +32,17 @@ h1 {
     margin: 0;
     padding: 0;
     display: flex;
-}
+   
 
 .nav-li {
     display: inline-block;
     padding: 0 10px;
+     color: #7f2c36;
+    height: 90px;
+}
 }
 
-a {
-    text-decoration: none;
-    color: #CC3F0C;
-}
+
 
 /* main container area beneath menu */
 main {
@@ -57,7 +57,7 @@ main {
 }
 
 .sidebar-img {
-    width: 200px;
+    width: 300px;
 }
 
 .content {
@@ -75,7 +75,10 @@ main {
 h2, h3 {
     margin: 0px;
 }
-
+a {
+   font-family: italic;  
+}
+/* Portfolio styles */
 .content h1 {
   color: black;
 }
@@ -93,7 +96,7 @@ h2, h3 {
 }
 
 #portfolio li:hover {
-  background: #eee;
+  background: #596157;
 }
 
 #portfolio a {

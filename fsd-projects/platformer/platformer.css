@@ -3,10 +3,13 @@ body {
 }
 
 canvas {
-  background-color: lightblue;
+  background-color: pink;
   margin: 20px;
 }
 
 img {
   display: none;
+}
+diamond{ 
+  
 }
